@@ -2,9 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[screen-capture (8).webm](https://github.com/sonia064/DollQueens_React_Project/assets/109096109/618e5857-c681-47a6-a00a-5b375ef21180)
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+[screen-capture (9).webm](https://github.com/sonia064/DollQueens_React_Project/assets/109096109/cf8c0ee0-79f8-4e1c-80f7-3518620eec6a)
 
 ### `npm start`
 
@@ -13,6 +17,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+[screen-capture (10).webm](https://github.com/sonia064/DollQueens_React_Project/assets/109096109/632f85a4-a12b-4b83-89f9-0a69f4f54e7b)
+
 
 ### `npm test`
 
